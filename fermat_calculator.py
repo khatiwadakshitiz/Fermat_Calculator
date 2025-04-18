@@ -27,7 +27,7 @@ while True:
             print("Please enter positive integers!")
             continue
             
-        # Check if inputs are primes (optional)
+       
         # if not (is_prime(p) and is_prime(q)):
         #     print("Both numbers must be primes!")
         #     continue
