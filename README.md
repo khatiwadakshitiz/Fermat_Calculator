@@ -38,12 +38,12 @@ Enter prime p: 3
 Enter prime q: 97
 
 Starting factorization for n = 291 (p=3, q=97)
-**Initial sqrt(n) = 17.059
-**Starting x = 17
-**Success after 33 steps!
-**x = 50, y = 47
-**Factors: 3 and 97
-**Elapsed time: 0.00014 seconds
+Initial sqrt(n) = 17.059
+Starting x = 17
+Success after 33 steps!
+x = 50, y = 47
+Factors: 3 and 97
+Elapsed time: 0.00014 seconds
 
 Enter two different prime numbers (0 0 to exit)
 Enter prime p: 0
