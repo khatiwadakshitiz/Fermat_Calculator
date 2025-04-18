@@ -1,6 +1,6 @@
-# CryptoGraphy
+#Fermat_Calculator
 
-CryptoGraphy is a Python-based calculator that implements Fermat's factorization method to decompose a large number (n) into its prime factors, given two prime numbers (p and q). This project is built as part of ongoing research in cryptography, specifically focusing on prime number factorization techniques.
+Fermat_Calculator is a Python-based calculator that implements Fermat's factorization method to decompose a large number (n) into its prime factors, given two prime numbers (p and q). This project is built as part of ongoing research that claims that the security decreases if close primes are chosen, specifically focusing on prime number fermat factorization techniques.
 
 ## Features
 
@@ -9,8 +9,7 @@ CryptoGraphy is a Python-based calculator that implements Fermat's factorization
 - **Efficient Calculation**: Handles large numbers efficiently by limiting the number of iterations.
 - **Timing**: Measures the time it takes to factor the number.
 
-## How to Use
-
+## How to use the program ?
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/kshitizkhatiwada/CryptoGraphy.git
@@ -34,9 +33,19 @@ CryptoGraphy is a Python-based calculator that implements Fermat's factorization
 ##Example 
 Here's an example of how the program works: 
       
-Enter two different prime numbers (0 0 to exit): Enter prime p: 11 Enter prime q: 17
+Enter two different prime numbers (0 0 to exit)
+Enter prime p: 3
+Enter prime q: 97
 
-Starting factorization for n = 187 (p=11, q=17) Initial sqrt(n) = 13.674 Starting x = 13
+Starting factorization for n = 291 (p=3, q=97)
+Initial sqrt(n) = 17.059
+Starting x = 17
+Success after 33 steps!
+x = 50, y = 47
+Factors: 3 and 97
+Elapsed time: 0.00014 seconds
 
-Success after 27 steps! x = 14, y = 3 Factors: 11 and 17 Elapsed time: 0.00042 seconds
-
+Enter two different prime numbers (0 0 to exit)
+Enter prime p: 0
+Enter prime q: 0
+Exiting program..
