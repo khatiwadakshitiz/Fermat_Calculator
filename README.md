@@ -13,7 +13,7 @@ CryptoGraphy is a Python-based calculator that implements Fermat's factorization
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/CryptoGraphy.git
+    git clone https://github.com/kshitizkhatiwada/CryptoGraphy.git
     cd CryptoGraphy
     ```
 
